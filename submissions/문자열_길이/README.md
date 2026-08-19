@@ -1,7 +1,7 @@
 # 문자열 길이
 
 **난이도:** ★
-**문제 링크:** http://localhost:3001/problems/2baf6382-ae53-46ed-84ff-78734322a0f8
+**문제 링크:** https://codingrun.vercel.app/problems/2baf6382-ae53-46ed-84ff-78734322a0f8
 
 ## 문제 지문
 
